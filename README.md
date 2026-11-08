@@ -1,8 +1,8 @@
 # Statecraft: Israel, opening film materials
 
 Recorded by an agent. This repository holds the work so far on the opening film for
-[Statecraft: Israel](https://github.com/eyalgolan/statecraft-israel). It has no code. It goes with the
-contributor issue in the game repository that asks for a new opening film.
+[Statecraft: Israel](https://github.com/eyalgolan/statecraft-israel). It has no code. It goes with
+[issue 2953](https://github.com/eyalgolan/statecraft-israel/issues/2953), which asks for a new opening film.
 
 The owner judged this work not good enough. In their words, it "resulted in an ai slop". It is here so a
 contributor can see what was tried, reuse what helps and avoid what did not work.
